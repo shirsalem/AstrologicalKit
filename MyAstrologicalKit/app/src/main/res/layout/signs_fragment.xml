@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_space">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/freestyle"
+            android:gravity="center"
+            android:text="Choose a Sign For a Daily Horoscope"
+            android:textColor="@android:color/white"
+            android:textSize="30dp" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="40dp" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="1">
+
+            <TableRow>
+
+                <Button
+                    android:id="@+id/btnAries"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Aries"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/btnTaurus"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Taurus"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/btnGemini"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Gemini"
+                    android:textSize="20dp" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <Button
+                    android:id="@+id/btnCancer"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Cancer"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/btnLeo"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Leo"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/btnVirgo"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Virgo"
+                    android:textSize="20dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <Button
+                    android:id="@+id/btnLibra"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Libra"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/btnScorpio"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Scorpio"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/btnSagittarius"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Sagittarius"
+                    android:textSize="20dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <Button
+                    android:id="@+id/btnCapricorn"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Capricorn"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/btnAquarius"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Aquarius"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/btnPisces"
+                    android:fontFamily="@font/freestyle"
+                    android:text="Pisces"
+                    android:textSize="20dp" />
+            </TableRow>
+
+        </TableLayout>
+
+        <ProgressBar
+            android:id="@+id/prgBar"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/txtDisplaySign"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="30sp"
+            android:fontFamily="@font/maian"
+            android:gravity="center"
+            android:text=""
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:visibility="invisible" />
+    </LinearLayout>
+</RelativeLayout>

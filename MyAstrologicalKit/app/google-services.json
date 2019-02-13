@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "912955720067",
+    "firebase_url": "https://myastrologicalkit.firebaseio.com",
+    "project_id": "myastrologicalkit",
+    "storage_bucket": "myastrologicalkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912955720067:android:8bb1a6e5fc898081",
+        "android_client_info": {
+          "package_name": "com.company.shir.myastrologicalkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912955720067-mv5931t1mdtmbmf1ugfupese0ifiolde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.shir.myastrologicalkit",
+            "certificate_hash": "6253bb1ba4b7b625c77c780c21cd0506a138513d"
+          }
+        },
+        {
+          "client_id": "912955720067-oaom8dghq72d5ruiukpc8igfchldcb6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPfb7r8d27CGRS4y0V-Ig04lP7PnWAJPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912955720067-oaom8dghq72d5ruiukpc8igfchldcb6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

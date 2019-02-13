@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyAstrologicalKit</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="internet_error">Sorry, something is wrong with your INTERNET connection,
+        Please try again later.</string>
+
+    <string name="optionOne">Your numerological value is:  1. You are strong person, independent with original ideas, you like to decide alone. It is not right for you to be in a controlled roll, You are suited to lead, ambitious, reach obstacles and know how to pass them. Always looking for new challenges.</string>
+    <string name="optionTwo">Your numerological value is: 2. You are very sensitive to others, you know how to listen, you are patient, excellent diplomats, it is difficult for you to be alone, you need a company, a partner, you are looking for marriage at an early age. The job that is right for you is social work, working with people through mentoring or personal counseling.</string>
+    <string name="optionThree">Your numerological value is: 3. You are the player in the group, full of humor and know how to help your friends in a bad mood and make them happy.  People with a talent for writing, acting, verbal ability, appearance,  people who are wanted in society, sometimes hurt when they say things directly from their opinion,  find great satisfaction in being able to give something of themselves to others.</string>
+    <string name="optionFour">Your numerological value is: 4. The people of discipline and order, set goals for themselves and carry them out.  Even if they encounter difficulties - they can be trusted, very reliable, perfectionists,  demand from others no less than themselves, it is important that they take occasional freedom and time for pleasures.</string>
+    <string name="optionFive">Your numerological value is: 5. You are restless, love life, good food, recreation, unusual work, traveling,  living at a fast pace, need unconventional work, persuasive ability and know how to present your case.  Sometimes a bit impulsive, doing things out of uncontrollable impulses.</string>
+    <string name="optionSix">Your numerological value is: 6. Family men, women of Venus, home and children are the center.  They have love for others, help as much as possible, open, do not suffer injustice,  strongly defend friends and family, work hard to achieve goals in life, possessive, artistic,  sometimes, with worry - they suffocate.</string>
+    <string name="optionSeven">Your numerological value is: 7. The philosophers and thinkers among us, with outstanding learning and understanding,  do not connect so much to their surroundings - sometimes they prefer to be alone. Selective in choosing friends,  love to explore the unknown, find it socially difficult to connect to spouses and family life.</string>
+    <string name="optionEight">Your numerological value is: 8. Managers, business owners, materialists and intellectuals. Born with a dual ability, intuition and sharp senses, spiritual and on the other hand materialists,  know how to make money from everything.  Strive to reach the highest status in life, in society, but any preoccupation with material alone will bring them down,  must combine material and spirit at once.</string>
+    <string name="optionNine">Your numerological value is: 9. The people of absolute giving, always giving,  helping, advising, and joining the help of the weak, kind of modern Don Quixote.  They know how to listen and give of themselves.  The secret is that they are in a high spiritual level that obliges them to give, and as much as they do,  they will be good and happiness will flow in their lives.</string>
+</resources>
